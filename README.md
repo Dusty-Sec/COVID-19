@@ -3,7 +3,7 @@ COVID-19 is a cross platform application that successfully runs under different 
 
 # WINDOWS
 Under windows dir, there is an .exe file. Just Double click to run the executable.
-* SCREENSHOTS
+### SCREENSHOTS
 ![](/windows/Screenshots/home.png)
 
 Note: There should be Internet Connection to stay updated.
