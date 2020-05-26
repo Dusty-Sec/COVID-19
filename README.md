@@ -8,7 +8,6 @@ Under windows dir, there is an .exe file. Just Double click to run the executabl
 ### SCREENSHOTS
 ![](/windows/Screenshots/home.png)
 
-# LINUX
 
 # SOURCES
 All the data shown in our app has picked from these sites.
