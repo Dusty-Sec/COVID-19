@@ -4,7 +4,7 @@ COVID-19 is a cross-platform application that successfully runs under different 
 # ANDROID
 Under Android dir, there is an Covid-19.apk install it to run the application.
 ### SCREENSHOTS
-![](/Android/Preview/home.png){:height="50%" width="50%"}
+![test image size](/Android/Preview/home.png){:height="50%" width="50%"}
 ![](/Android/Preview/nav_drawer.png)
 
 # WINDOWS
