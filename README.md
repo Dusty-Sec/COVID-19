@@ -1,12 +1,14 @@
 # COVID-19
 COVID-19 is a cross-platform application that successfully runs under different platforms. The main aim of this project to update or aware the citizens of India about the pandemic situation. The app does not collect any data from the user. It merely collects or scraps data from the websites.
-
+<stytle>
+  .button1 {background-color: #4CAF50;}
+  </style>
 # ANDROID
 Under Android dir, there is an Covid-19.apk install it to run the application.
 ### SCREENSHOTS
 ![](/Android/Preview/home.png)
 ![](/Android/Preview/drawer.png)
-<button type="button">Install</button>
+<button class="button1" type="button">Install</button>
 # WINDOWS
 Under windows dir, there is an .exe file. Just Double click to run the executable.
 ### SCREENSHOTS
