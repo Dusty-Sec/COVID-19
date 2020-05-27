@@ -1,6 +1,8 @@
 # COVID-19
 COVID-19 is a cross-platform application that successfully runs under different platforms. The main aim of this project to update or aware the citizens of India about the pandemic situation. The app does not collect any data from the user. It merely collects or scraps data from the websites.
-
+<style>
+  .button1 {background-color: #4CAF50;}
+  </style>
 # ANDROID 
 
 [Click me](http://www.google.com){: .btn}
@@ -8,7 +10,7 @@ Under Android dir, there is an Covid-19.apk install it to run the application.
 ### SCREENSHOTS
 ![](/Android/Preview/home.png)
 ![](/Android/Preview/drawer.png)
-<a href="https://github.com/Dusty-Sec/COVID-19/raw/master/Android/Covid-19.apk"><button type="button">Download</button></a>
+<a href="https://github.com/Dusty-Sec/COVID-19/raw/master/Android/Covid-19.apk"><button class="button1" type="button">Download Apk(5.3 MB)</button></a>
 # WINDOWS
 Under windows dir, there is an .exe file. Just Double click to run the executable.
 ### SCREENSHOTS
