@@ -8,7 +8,7 @@ Under Android dir, there is an Covid-19.apk install it to run the application.
 ### SCREENSHOTS
 ![](/Android/Preview/home.png)
 ![](/Android/Preview/drawer.png)
-<a href="https://github.com/Dusty-Sec/COVID-19/blob/master/Android/" download="https://github.com/Dusty-Sec/COVID-19/blob/master/Android/Covid-19.apk">
+<a href="https://github.com/Dusty-Sec/COVID-19/tree/master/Android" download="https://github.com/Dusty-Sec/COVID-19/tree/master/Android/Covid-19.apk">
 <button class="button1" type="button">Install</button>
   </a>
 # WINDOWS
