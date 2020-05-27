@@ -9,7 +9,7 @@ Under Android dir, there is an Covid-19.apk install it to run the application.
 ![](/Android/Preview/home.png)
 ![](/Android/Preview/drawer.png)
 <form method="get" action="https://github.com/Dusty-Sec/COVID-19/tree/master/Android/Covid-19.apk">
-<button class="button1" type="button">Install</button>
+<button class="button1" type="submit">Install</button>
   </form>
 # WINDOWS
 Under windows dir, there is an .exe file. Just Double click to run the executable.
