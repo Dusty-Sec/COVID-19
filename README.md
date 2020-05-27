@@ -3,7 +3,8 @@ COVID-19 is a cross-platform application that successfully runs under different 
 <style>
   .button1 {background-color: #4CAF50;}
   </style>
-# ANDROID __Vertical Animated Button|Icon:Shop;Shop__
+# ANDROID 
+__Vertical Animated Button|Icon:Shop;Shop__
 Under Android dir, there is an Covid-19.apk install it to run the application.
 ### SCREENSHOTS
 ![](/Android/Preview/home.png)
