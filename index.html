@@ -2,3 +2,20 @@
 <a href=//example-covidstat-19.en.uptodown.com/android title="Download Covid-19" >
 <img src=https://stc.utdstc.com/img/download-uptodown2.png alt="Download Covid-19">
 </a>
+<div id="div1">
+</div>
+<button id="cnt" onclick="load()">Cnt</button>
+<script type="text/javascript">
+  function load() {
+    var file = new XMLHttpRequest();
+    file.open("GET", "http://remote.tld/random.txt", true);
+    file.onreadystatechange = function() {
+      if (file.readyState === 4) {  // Makes sure the document is ready to parse
+        if (file.status === 200) {  // Makes sure it's found the file
+          text = file.responseText;
+          document.getElementById("div1").innerHTML = text;
+        }
+      }
+    }
+}
+</script>
