@@ -7,15 +7,8 @@
 <button id="cnt" onclick="load()">Cnt</button>
 <script type="text/javascript">
   function load() {
-    var file = new XMLHttpRequest();
-    file.open("GET", "https://github.com/Dusty-Sec/COVID-19/blob/master/hello.txt", true);
-    file.onreadystatechange = function() {
-      if (file.readyState === 4) {  // Makes sure the document is ready to parse
-        if (file.status === 200) {  // Makes sure it's found the file
-          text = file.responseText;
-          document.getElementById("div1").innerHTML = text;
-        }
-      }
-    }
+    jQuery.get("https://github.com/Dusty-Sec/COVID-19/blob/master/hello.txt", function(data) {
+    alert(data);
+});
 }
 </script>
