@@ -25,7 +25,7 @@ https://www.mohfw.gov.in/
 ```
 https://www.hindustantimes.com/topic/coronavirus
 
-### Note: NEWS headlines feature are out of service currently. 
+Note: NEWS headlines feature are out of service currently. 
 
 ```
 * For helpline Numbers:
